@@ -28,8 +28,10 @@
     "@infectoone/vue-ganttastic": "^2.3.2",
     "@logicflow/core": "^2.0.11",
     "@logicflow/extension": "^2.0.15",
+    "@pureadmin/descriptions": "^1.2.1",
     "@pureadmin/table": "^3.2.1",
     "@pureadmin/utils": "^2.5.0",
+    "@vueuse/motion": "^2.2.6",
     "animate.css": "^4.1.1",
     "axios": "^1.8.2",
     "cropperjs": "^2.0.0",
@@ -37,8 +39,11 @@
     "echarts": "^5.6.0",
     "element-plus": "^2.9.6",
     "gradient-string": "^3.0.0",
+    "plus-pro-components": "^0.1.21",
+    "version-rocket": "^1.7.4",
     "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "vue-router": "^4.5.0",
+    "vue-tippy": "^6.6.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
