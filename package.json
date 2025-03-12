@@ -41,18 +41,22 @@
     "dayjs": "^1.11.13",
     "deep-chat": "^2.1.1",
     "echarts": "^5.6.0",
+    "el-table-infinite-scroll": "^3.0.6",
     "element-plus": "^2.9.6",
     "gradient-string": "^3.0.0",
     "js-cookie": "^3.0.5",
+    "jsbarcode": "^3.11.6",
     "pinia": "^3.0.1",
     "plus-pro-components": "^0.1.21",
     "qs": "^6.14.0",
+    "sortablejs": "^1.15.6",
     "version-rocket": "^1.7.4",
     "vue": "^3.5.13",
     "vue-i18n": "^11.1.2",
     "vue-router": "^4.5.0",
     "vue-tippy": "^6.6.0",
-    "vxe-table": "^4.11.19"
+    "vxe-table": "^4.11.19",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
