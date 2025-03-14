@@ -8,7 +8,7 @@ import Preferences from "./components/Preferences.vue";
 import SecurityLog from "./components/SecurityLog.vue";
 import { useGlobal, deviceDetection } from "@pureadmin/utils";
 import AccountManagement from "./components/AccountManagement.vue";
-import { useDataThemeChange } from "@/layout/hooks/useDateThemeChange";
+import { useDataThemeChange } from "@/layout/hooks/useDataThemeChange";
 import LaySidebarTopCollapse from "@/layout/components/lay-sidebar/components/SidebarTopCollapse.vue";
 
 import leftLine from "@iconify-icons/ri/arrow-left-s-line";
